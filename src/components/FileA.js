@@ -1,4 +1,3 @@
-
 import {withRouter} from "../hooks/with-router";
 import {useLocation} from "react-router-dom";
 const FileA = () =>
