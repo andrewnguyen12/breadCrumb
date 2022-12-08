@@ -1,4 +1,4 @@
-import {Route,Routes} from 'react-router-dom';
+import {Route,Routes, Navigate} from 'react-router-dom';
 import Home from "./components/Home";
 import FileA from "./components/FileA";
 import FileB from "./components/FileB";
@@ -13,6 +13,7 @@ function App() {
       <div>
             <Page/>
             <Routes>
+              <Route path='*' element={<Navigate replace to='/' />} />
               <Route  path='/' exact element={<Home/>}/>
               <Route  path='/myname' exact element={<MyName/>}/>
               <Route  path='/myname/filea.txt' exact element={<FileA/>}/>
