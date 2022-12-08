@@ -1,11 +1,10 @@
-import {Navigate, Route,Routes , BrowserRouter} from 'react-router-dom';
+import {Route,Routes} from 'react-router-dom';
 import Home from "./components/Home";
 import FileA from "./components/FileA";
 import FileB from "./components/FileB";
 import MyName from "./components/Myname";
 import MySuperSecretProject from "./components/MySuperSecretProject";
 import MySuperSecretFile from "./components/MySuperSecretFile";
-import Breadcrumb from "./components/Breadcrumb";
 import Projects from "./components/Projects";
 import Page from "./components/Page";
 function App() {
@@ -13,8 +12,6 @@ function App() {
   return (
       <div>
             <Page/>
-
-
             <Routes>
               <Route  path='/' exact element={<Home/>}/>
               <Route  path='/myname' exact element={<MyName/>}/>
