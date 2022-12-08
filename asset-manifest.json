@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/breadCrumb/static/css/main.68407348.css",
-    "main.js": "/breadCrumb/static/js/main.ff4ce110.js",
+    "main.js": "/breadCrumb/static/js/main.55727df0.js",
     "static/js/787.3fed14b4.chunk.js": "/breadCrumb/static/js/787.3fed14b4.chunk.js",
     "index.html": "/breadCrumb/index.html",
     "main.68407348.css.map": "/breadCrumb/static/css/main.68407348.css.map",
-    "main.ff4ce110.js.map": "/breadCrumb/static/js/main.ff4ce110.js.map",
+    "main.55727df0.js.map": "/breadCrumb/static/js/main.55727df0.js.map",
     "787.3fed14b4.chunk.js.map": "/breadCrumb/static/js/787.3fed14b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.68407348.css",
-    "static/js/main.ff4ce110.js"
+    "static/js/main.55727df0.js"
   ]
 }
