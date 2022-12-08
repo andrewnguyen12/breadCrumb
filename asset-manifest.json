@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "//github.com/fifo5725/breadCrumb/static/css/main.68407348.css",
-    "main.js": "//github.com/fifo5725/breadCrumb/static/js/main.b1182720.js",
+    "main.js": "//github.com/fifo5725/breadCrumb/static/js/main.fed3f49c.js",
     "static/js/787.3fed14b4.chunk.js": "//github.com/fifo5725/breadCrumb/static/js/787.3fed14b4.chunk.js",
     "index.html": "//github.com/fifo5725/breadCrumb/index.html",
     "main.68407348.css.map": "//github.com/fifo5725/breadCrumb/static/css/main.68407348.css.map",
-    "main.b1182720.js.map": "//github.com/fifo5725/breadCrumb/static/js/main.b1182720.js.map",
+    "main.fed3f49c.js.map": "//github.com/fifo5725/breadCrumb/static/js/main.fed3f49c.js.map",
     "787.3fed14b4.chunk.js.map": "//github.com/fifo5725/breadCrumb/static/js/787.3fed14b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.68407348.css",
-    "static/js/main.b1182720.js"
+    "static/js/main.fed3f49c.js"
   ]
 }
