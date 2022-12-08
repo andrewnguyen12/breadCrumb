@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "//github.com/fifo5725/breadCrumb/static/css/main.68407348.css",
-    "main.js": "//github.com/fifo5725/breadCrumb/static/js/main.fed3f49c.js",
-    "static/js/787.3fed14b4.chunk.js": "//github.com/fifo5725/breadCrumb/static/js/787.3fed14b4.chunk.js",
-    "index.html": "//github.com/fifo5725/breadCrumb/index.html",
-    "main.68407348.css.map": "//github.com/fifo5725/breadCrumb/static/css/main.68407348.css.map",
-    "main.fed3f49c.js.map": "//github.com/fifo5725/breadCrumb/static/js/main.fed3f49c.js.map",
-    "787.3fed14b4.chunk.js.map": "//github.com/fifo5725/breadCrumb/static/js/787.3fed14b4.chunk.js.map"
+    "main.css": "/fifo5725/breadCrumb/static/css/main.68407348.css",
+    "main.js": "/fifo5725/breadCrumb/static/js/main.3edcb500.js",
+    "static/js/787.3fed14b4.chunk.js": "/fifo5725/breadCrumb/static/js/787.3fed14b4.chunk.js",
+    "index.html": "/fifo5725/breadCrumb/index.html",
+    "main.68407348.css.map": "/fifo5725/breadCrumb/static/css/main.68407348.css.map",
+    "main.3edcb500.js.map": "/fifo5725/breadCrumb/static/js/main.3edcb500.js.map",
+    "787.3fed14b4.chunk.js.map": "/fifo5725/breadCrumb/static/js/787.3fed14b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.68407348.css",
-    "static/js/main.fed3f49c.js"
+    "static/js/main.3edcb500.js"
   ]
 }
